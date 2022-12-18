@@ -34,3 +34,7 @@ Make predictions on the test.csv dataset.
 ## RESULT
 
 - The team took the second place.(Accuracy: 0.9642)
+
+## Teammates:
+
+[Andrey Baranov](https://github.com/and9331) 
