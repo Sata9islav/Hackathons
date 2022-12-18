@@ -17,16 +17,16 @@ about the data. For example, maybe loyal customers are usually business traveler
 ## Task part №2 content
 
 1.Create new features based on your EDA. Don't forget to check how they performed after you are finished with modelling! You can use 
-feature_importances from scikit-learn or use advanced methods like SHAP or Lime. (5 points)
+feature_importances from scikit-learn or use advanced methods like SHAP or Lime.
 
 2.Your target variable is satisfaction. You should research metrics and choose one or multiple that you will use to validate your model. Write 
-down the formula(s) and your motivation to use them. (3 points)
+down the formula(s) and your motivation to use them.
 
 3.Design the validation process: for example, will you use cross-validation or just train-test split? Will you account for the imbalance in 
-classes, if it exists? (2 points)
+classes, if it exists?
 
 4.Experiment with modelling. You can use models from the lecture or do your own research. You can also try out approaches like stacking and 
-blending – will they increase the quality? (15 points)
+blending – will they increase the quality?
 Make predictions on the test.csv dataset.
 
 ## RESULT
