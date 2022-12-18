@@ -1,3 +1,5 @@
+# Hackathon from the Higher School of Economics: "Airline passenger satisfaction"
+
 ## Task part №1 content
 
 1.Check for missing values.
