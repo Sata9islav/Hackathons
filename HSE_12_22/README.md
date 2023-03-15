@@ -37,6 +37,6 @@ Make predictions on the test.csv dataset.
 
 ## Teammates:
 
-[Andrey Baranov](https://github.com/and9331) 
-[Maria Petrishcheva](https://github.com/MariaTSU)
-[Amos Fang](https://github.com/amosfang)
+- [Andrey Baranov](https://github.com/and9331) 
+- [Maria Petrishcheva](https://github.com/MariaTSU)
+- [Amos Fang](https://github.com/amosfang)
