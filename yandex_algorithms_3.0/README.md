@@ -1,0 +1,15 @@
+# YANDEX ALGORITHMS 3.0
+
+1.[Гистограмма](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L1)
+2.[Красивая строка](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L2)
+3.[Коллекционер Диего](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L3)
+5.[Хорошая строка](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L4)
+7.[SNTP](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L5)
+8.[Минимальный прямоугольник](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L6)
+9.[Сумма в прямоугольнике](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L7)
+10.[Скучная лекция](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L8)
+11.[Стек с защитой от ошибок](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L9)
+12.[Правильная скобочная последовательность](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L10)
+13.[Постфиксная запись](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L11)
+14.[Сортировка вагонов lite](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L12)
+15.[Великое Лайнландское переселение](https://github.com/GreyGreyWolf/Hackathons/blob/master/yandex_algorithms_3.0/1-15.mdplain=1##L13)
