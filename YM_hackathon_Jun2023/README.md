@@ -6,14 +6,13 @@
 
 # Содержание репозитория:
 
-## 1. [Блокнот с исследовательским анализом 
-данных](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/blob/main/yandex_hackathon_eda_by_ds_team_4.ipynb)
+## 1. [Блокнот с исследовательским анализом данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/yandex_hackathon_eda_by_ds_team_4.ipynb)
 Проведенн EDA.
 
-## 2. [Блокнот с предобработкой данных](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/yandex_hackathon_preproseccing_by_ds_team_4.ipynb)
+## 2. [Блокнот с предобработкой данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/yandex_hackathon_preproseccing_by_ds_team_4.ipynb)
 В данной работе проведена предобработка данных с учетом особенностей выявленных при исследовательском анализе
 
-## 3. [Блокнот с моделингом](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/yandex_hackathon_modelling_by_ds_team_4.ipynb)
+## 3. [Блокнот с моделингом](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/yandex_hackathon_modelling_by_ds_team_4.ipynb)
 В моделинге были выбраны наилучшие для задачи модели и параметры к ним, а так же отброшены признаки, снижающие качество. Для достижения высокого результат были выбраны две 
 модели:
 
@@ -21,18 +20,18 @@
 2. Модель FAISS для нахождения нескольких подходящих вариантов упаковок. Несколько вариантов упаковок позволят иметь в запасе свободу выбора. Например, в случае отсутствия 
 однйо из упаковок на складе.
 
-## 4. [Блокнот с заключительными выводами и анализом бизнес метрики](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/yandex_hackathon_result_by_ds_team_4.ipynb)
+## 4. [Блокнот с заключительными выводами и анализом бизнес метрики](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/yandex_hackathon_result_by_ds_team_4.ipynb)
 Сравнительный анализ итоговых результатов и их значение для бизнеса.
 
-## 5. [Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023//for_docker_images)
+## 5. [Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/for_docker_images)
 Дирректория содержит в себе готовое backend приложение с моделями и  полностью рабочую инструкцию сборки Docker образа для последующего внедрения в общий сервис.
 
-## 6. [Скрипт предобработки и моделинга](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/preprocessing_data_and_train_model.py)
+## 6. [Скрипт предобработки и моделинга](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/preprocessing_data_and_train_model.py)
 Скрипт предназачен для полной предобработки данных, обучения и выгрузки масштабизаторов, векторизатора и моделей.
 
 P.S. Работает долго.
 
-## 7. [Диреткория для исходных данных](https://github.com/GreyGreyWolf/Hackathons/YM_hackathon_Jun2023/initial_data)
+## 7. [Диреткория для исходных данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/YM_hackathon_Jun2023/initial_data)
 В дирректорию помещаются исходные данные для хакатона.
 
 # Итоги работы
