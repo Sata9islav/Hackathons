@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "for-docker-images"
+version = "0.1.0"
+description = ""
+authors = ["team_4_ds"]
+readme = "README.md"
+packages = [{include = "for_docker_images"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.3"
+faiss-cpu = "^1.7.4"
+uvicorn = "^0.22.0"
+pydantic = "^1.10.9"
+fastapi = "^0.96.0"
+pandas = "^2.0.2"
+joblib = "^1.2.0"
+scikit-learn = "^1.2.2"
+requests = "^2.31.0"
+sklearn = "^0.0.post5"
+progress = "^1.6"
+logger = "^1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
