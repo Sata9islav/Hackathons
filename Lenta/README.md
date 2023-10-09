@@ -23,8 +23,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 # Содержание репозитория:
 
-## 1. [Блокнот с исследовательским аналиским 
-анализом данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_eda_by_ds_team_17.ipynb)
+## 1. [Блокнот с исследовательским аналиским анализом данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_eda_by_ds_team_17.ipynb)
 ### Основные шаги EDA:
  - Обнаружены и обработаны аномалии
  - Сгенерированы и исследованы новые признаки
@@ -68,8 +67,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
     
     Перечисленные факторы значительно влияют на количество приобритаемой продукции.
 
-## 2. [Блокнот с финальной обработкой данных, отбором признаков и 
-моделлингом](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_preprocessing_and_modelling_by_ds_team_17.ipynb)
+## 2. [Блокнот с финальной обработкой данных, отбором признаков и моделлингом](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_preprocessing_and_modelling_by_ds_team_17.ipynb)
 
 ### Основные шаги моделлинга:
  - Созданы дополнительные "временные" признаки.
