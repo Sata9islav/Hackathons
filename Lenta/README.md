@@ -95,7 +95,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 Но несмотря на это, такая методика позволила нам достичь высоких результатов при прогнозировании.
 
-## [Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/tree/master/Lenta/for_docker_image)
+## 3.[Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/tree/master/Lenta/for_docker_image)
 
 Дирректория содержит в себе готовое backend приложение с моделями и полностью рабочую инструкцию сборки Docker образа для последующего внедрения 
 в общий сервис (В приложение включен простой логер, который выводит информацию о ходе работы в консоль)
