@@ -22,7 +22,6 @@
 
 **Метрика**
 ```
-
 def wape(y_true: np.array, y_pred: np.array):
 return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 ```
@@ -96,7 +95,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 Но несмотря на это, такая методика позволила нам достичь высоких результатов при прогнозировании.
 
-##[Директория с файлами для Docker образа]()
+## [Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/tree/master/Lenta)
 
 Дирректория содержит в себе готовое backend приложение с моделями и полностью рабочую инструкцию сборки Docker образа для последующего внедрения 
 в общий сервис(В приложение включен простой логер, который выводит информацию о ходе работы в консоль)
@@ -104,26 +103,40 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 ### Инструкция по сборке:
 
 	1. Скопировать директорию на локальную машину
-	   ```git clone URL_РЕПОЗИТОРИЯ ИМЯ_ПАПКИ```		
+
+	   ```git clone URL_РЕПОЗИТОРИЯ ИМЯ_ПАПКИ```
+		
 	2. Из за большого объема обученных моделей, они были помещены на [Yandex диск](https://disk.yandex.ru/d/TawXg5M18-nkrg).
+
 	  2.1 Скачать архив sp_sales_task.zip по ссылке выше. Модели хранятся в директории tr_models.
-	      Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.		
+	      Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.
+		
 	  2.2 Скопировать их в директорию for_docker_image/src/predictions/tr_models
+
 	3. Запустить сборку образа из директории `for_docker_image` командой `docker build .`
+
    	   _Пример процесса сборки:_
+
 	  [![asciicast](https://asciinema.org/a/OClN1P0RDmvSIjNcBpNBsFlz2.svg)](https://asciinema.org/a/OClN1P0RDmvSIjNcBpNBsFlz2)
 	
 	4. Запустить контейнер командой `docker run -p локальный_порт:порт_в_контейнере имя_образа`.
+
 	   _Пример запуска:_
+
 	   [![asciicast](https://asciinema.org/a/zfGiS1ZnbQteN73Ik2YSmzknH.svg)](https://asciinema.org/a/zfGiS1ZnbQteN73Ik2YSmzknH)			
+	
 	5. Пример работы (запрос отправляется в консоли)
+
 	   [![asciicast](https://asciinema.org/a/UTZ8gMyOG71faVY53UhTQllan.svg)](https://asciinema.org/a/UTZ8gMyOG71faVY53UhTQllan)	
+
 #### Пример отправляемого запроса POST:
 
 
 ```{"data": [{"store": "c81e728d9d4c2f636f067f89cc14862c",
                     "sku": "c7b711619071c92bef604c7ad68380dd",
                     "forecast_date": "2020-07-07"}]}```
+
+
 #### Пример возвращаемого ответа:
 
 
