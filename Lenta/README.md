@@ -106,12 +106,12 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 `git clone URL_РЕПОЗИТОРИЯ ИМЯ_ПАПКИ`
 		
-2. Из за большого объема обученных моделей, они были помещены на [Yandex диск](https://disk.yandex.ru/d/TawXg5M18-nkrg).
+ 2. Из за большого объема обученных моделей, они были помещены на [Yandex диск](https://disk.yandex.ru/d/TawXg5M18-nkrg).
 
-2.1 Скачать архив sp_sales_task.zip по ссылке выше. Модели хранятся в директории tr_models.
-    Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.
+ 2.1 Скачать архив sp_sales_task.zip по ссылке выше. Модели хранятся в директории tr_models.
+     Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.
 		
-2.2 Скопировать их в директорию `for_docker_image/src/predictions/tr_models`
+ 2.2 Скопировать их в директорию `for_docker_image/src/predictions/tr_models`
 
 3. Запустить сборку образа из директории `for_docker_image` командой `docker build .`
 
@@ -119,11 +119,7 @@ _Пример процесса сборки:_
 
 [![asciicast](https://asciinema.org/a/OClN1P0RDmvSIjNcBpNBsFlz2.svg)](https://asciinema.org/a/OClN1P0RDmvSIjNcBpNBsFlz2)
 	
-4. Запустить контейнер командой `docker run -p локальный_порт:порт_в_контейнере имя_образа`.
-
- _Пример запуска:_
-
- [![asciicast](https://asciinema.org/a/zfGiS1ZnbQteN73Ik2YSmzknH.svg)](https://asciinema.org/a/zfGiS1ZnbQteN73Ik2YSmzknH)			
+4. Запустить контейнер командой `docker run -p локальный_порт:порт_в_контейнере имя_образа`.			
 	
 5. Пример работы (запрос отправляется в консоли)
 
