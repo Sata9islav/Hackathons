@@ -1,0 +1,908 @@
+2023-10-10 05:06:22,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:06:22,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:06:22,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:06:22,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:06:31,335:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:07:00,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:00,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:00,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:00,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:01,580:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:07:39,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:39,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:39,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:39,223:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:07:40,256:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:08:19,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:19,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:19,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:19,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:20,669:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:08:41,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:41,375:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:41,375:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:41,375:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:08:42,301:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:08:49,365:INFO:Initializing load_model()
+2023-10-10 05:08:49,366:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:11:46,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:11:46,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:11:46,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:11:46,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:11:47,537:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:12:08,870:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:08,870:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:08,870:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:08,870:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:10,022:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:12:17,737:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:17,738:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:17,738:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:17,738:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:12:18,425:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:12:24,599:INFO:Initializing load_model()
+2023-10-10 05:12:24,599:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:15:08,603:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:15:08,603:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:15:08,603:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:15:08,603:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:15:10,134:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:15:16,737:INFO:Initializing load_model()
+2023-10-10 05:15:16,737:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:18:58,130:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:18:58,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:18:58,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:18:58,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:18:59,368:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:19:06,070:INFO:Initializing load_model()
+2023-10-10 05:19:06,070:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:19:06,635:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 05:19:58,087:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:19:58,087:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:19:58,087:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:19:58,087:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:19:58,747:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:20:14,206:INFO:Initializing load_model()
+2023-10-10 05:20:14,206:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:20:14,338:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 05:25:25,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:25:25,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:25:25,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:25:25,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 05:25:27,166:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 05:25:32,709:INFO:Initializing load_model()
+2023-10-10 05:25:32,709:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 05:25:32,849:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 13:52:07,191:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:52:07,191:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:52:07,191:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:52:07,191:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:52:08,617:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 13:53:20,120:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:53:20,120:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:53:20,120:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:53:20,121:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 13:53:21,290:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 13:53:29,260:INFO:Initializing load_model()
+2023-10-10 13:53:29,261:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 13:53:29,403:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 13:53:29,428:INFO:Initializing predict_model()
+2023-10-10 13:53:29,428:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12e3b6510>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12e178e00>)
+2023-10-10 13:53:29,428:INFO:Checking exceptions
+2023-10-10 13:53:29,428:INFO:Preloading libraries
+2023-10-10 13:53:29,428:INFO:Set up data.
+2023-10-10 13:53:29,435:INFO:Set up index.
+2023-10-10 18:29:44,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:29:44,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:29:44,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:29:44,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:29:46,033:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 18:30:01,469:INFO:Initializing load_model()
+2023-10-10 18:30:01,469:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 18:30:01,618:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 18:30:01,646:INFO:Initializing predict_model()
+2023-10-10 18:30:01,646:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x1340da050>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x10f57a840>)
+2023-10-10 18:30:01,647:INFO:Checking exceptions
+2023-10-10 18:30:01,647:INFO:Preloading libraries
+2023-10-10 18:30:01,647:INFO:Set up data.
+2023-10-10 18:30:01,658:INFO:Set up index.
+2023-10-10 18:33:58,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:33:58,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:33:58,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:33:58,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 18:33:59,985:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 18:34:03,431:INFO:Initializing load_model()
+2023-10-10 18:34:03,431:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 18:34:03,565:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 18:34:03,593:INFO:Initializing predict_model()
+2023-10-10 18:34:03,593:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12c50f510>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12c2a4f40>)
+2023-10-10 18:34:03,593:INFO:Checking exceptions
+2023-10-10 18:34:03,593:INFO:Preloading libraries
+2023-10-10 18:34:03,593:INFO:Set up data.
+2023-10-10 18:34:03,603:INFO:Set up index.
+2023-10-10 19:11:10,793:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:10,793:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:10,793:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:10,793:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:12,030:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:11:21,371:INFO:Initializing load_model()
+2023-10-10 19:11:21,371:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:11:21,496:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:11:21,520:INFO:Initializing predict_model()
+2023-10-10 19:11:21,520:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12881db50>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x128644e00>)
+2023-10-10 19:11:21,520:INFO:Checking exceptions
+2023-10-10 19:11:21,520:INFO:Preloading libraries
+2023-10-10 19:11:21,520:INFO:Set up data.
+2023-10-10 19:11:21,531:INFO:Set up index.
+2023-10-10 19:11:48,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:48,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:48,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:48,412:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:11:49,402:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:11:56,804:INFO:Initializing load_model()
+2023-10-10 19:11:56,804:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:11:56,936:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:11:56,963:INFO:Initializing predict_model()
+2023-10-10 19:11:56,963:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12dc0eb50>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12d9a8e00>)
+2023-10-10 19:11:56,963:INFO:Checking exceptions
+2023-10-10 19:11:56,963:INFO:Preloading libraries
+2023-10-10 19:11:56,963:INFO:Set up data.
+2023-10-10 19:11:56,973:INFO:Set up index.
+2023-10-10 19:13:37,751:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:13:37,751:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:13:37,751:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:13:37,751:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:13:38,899:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:13:43,972:INFO:Initializing load_model()
+2023-10-10 19:13:43,973:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:13:44,109:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:13:44,134:INFO:Initializing predict_model()
+2023-10-10 19:13:44,134:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12d133190>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x108762840>)
+2023-10-10 19:13:44,135:INFO:Checking exceptions
+2023-10-10 19:13:44,135:INFO:Preloading libraries
+2023-10-10 19:13:44,135:INFO:Set up data.
+2023-10-10 19:13:44,145:INFO:Set up index.
+2023-10-10 19:21:31,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:21:31,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:21:31,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:21:31,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:21:32,667:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:21:43,219:INFO:Initializing load_model()
+2023-10-10 19:21:43,219:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:21:43,342:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:21:43,366:INFO:Initializing predict_model()
+2023-10-10 19:21:43,366:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x132d73ed0>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x10e21a980>)
+2023-10-10 19:21:43,366:INFO:Checking exceptions
+2023-10-10 19:21:43,366:INFO:Preloading libraries
+2023-10-10 19:21:43,366:INFO:Set up data.
+2023-10-10 19:21:43,375:INFO:Set up index.
+2023-10-10 19:22:49,204:INFO:Initializing load_model()
+2023-10-10 19:22:49,207:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:22:49,215:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:22:49,237:INFO:Initializing predict_model()
+2023-10-10 19:22:49,237:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x132c8c310>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x132a84ea0>)
+2023-10-10 19:22:49,237:INFO:Checking exceptions
+2023-10-10 19:22:49,237:INFO:Preloading libraries
+2023-10-10 19:22:49,237:INFO:Set up data.
+2023-10-10 19:22:49,247:INFO:Set up index.
+2023-10-10 19:22:50,809:INFO:Initializing load_model()
+2023-10-10 19:22:50,809:INFO:load_model(model_name=predictions/tr_models/42a0e188f5033bc65bf8d78622277c4e68f441429e73dbd33b81f95da31576e9, platform=None, authentication=None, verbose=False)
+2023-10-10 19:23:18,758:INFO:Initializing load_model()
+2023-10-10 19:23:18,759:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:23:18,765:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:23:18,792:INFO:Initializing predict_model()
+2023-10-10 19:23:18,792:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x132afe350>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x132ac8900>)
+2023-10-10 19:23:18,792:INFO:Checking exceptions
+2023-10-10 19:23:18,792:INFO:Preloading libraries
+2023-10-10 19:23:18,792:INFO:Set up data.
+2023-10-10 19:23:18,804:INFO:Set up index.
+2023-10-10 19:23:35,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:23:35,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:23:35,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:23:35,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:23:36,250:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:23:56,041:INFO:Initializing load_model()
+2023-10-10 19:23:56,041:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:23:56,149:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:23:56,173:INFO:Initializing predict_model()
+2023-10-10 19:23:56,173:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12c909910>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x1293ed940>)
+2023-10-10 19:23:56,173:INFO:Checking exceptions
+2023-10-10 19:23:56,173:INFO:Preloading libraries
+2023-10-10 19:23:56,173:INFO:Set up data.
+2023-10-10 19:23:56,183:INFO:Set up index.
+2023-10-10 19:28:45,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:28:45,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:28:45,401:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:28:45,401:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:28:46,681:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:28:50,967:INFO:Initializing load_model()
+2023-10-10 19:28:50,968:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:28:51,100:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:28:51,126:INFO:Initializing predict_model()
+2023-10-10 19:28:51,126:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12acd5e50>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12aac5080>)
+2023-10-10 19:28:51,126:INFO:Checking exceptions
+2023-10-10 19:28:51,126:INFO:Preloading libraries
+2023-10-10 19:28:51,126:INFO:Set up data.
+2023-10-10 19:28:51,135:INFO:Set up index.
+2023-10-10 19:28:59,370:INFO:Initializing load_model()
+2023-10-10 19:28:59,370:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:28:59,375:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:28:59,397:INFO:Initializing predict_model()
+2023-10-10 19:28:59,397:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12af4e7d0>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x1061ce980>)
+2023-10-10 19:28:59,397:INFO:Checking exceptions
+2023-10-10 19:28:59,397:INFO:Preloading libraries
+2023-10-10 19:28:59,397:INFO:Set up data.
+2023-10-10 19:28:59,406:INFO:Set up index.
+2023-10-10 19:30:21,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:30:21,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:30:21,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:30:21,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:30:22,442:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:30:47,782:INFO:Initializing load_model()
+2023-10-10 19:30:47,783:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:30:47,906:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:30:47,932:INFO:Initializing predict_model()
+2023-10-10 19:30:47,932:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x1285c5710>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x128474fe0>)
+2023-10-10 19:30:47,932:INFO:Checking exceptions
+2023-10-10 19:30:47,932:INFO:Preloading libraries
+2023-10-10 19:30:47,933:INFO:Set up data.
+2023-10-10 19:30:47,943:INFO:Set up index.
+2023-10-10 19:31:18,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:31:18,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:31:18,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:31:18,946:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:31:19,985:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:31:24,103:INFO:Initializing load_model()
+2023-10-10 19:31:24,103:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:31:24,212:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:31:24,238:INFO:Initializing predict_model()
+2023-10-10 19:31:24,238:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12cc6f250>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12c9c5080>)
+2023-10-10 19:31:24,238:INFO:Checking exceptions
+2023-10-10 19:31:24,238:INFO:Preloading libraries
+2023-10-10 19:31:24,238:INFO:Set up data.
+2023-10-10 19:31:24,249:INFO:Set up index.
+2023-10-10 19:33:18,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:33:18,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:33:18,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:33:18,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:33:19,607:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:33:27,131:INFO:Initializing load_model()
+2023-10-10 19:33:27,132:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:33:27,276:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:33:27,301:INFO:Initializing predict_model()
+2023-10-10 19:33:27,301:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12e933f90>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12e688a40>)
+2023-10-10 19:33:27,301:INFO:Checking exceptions
+2023-10-10 19:33:27,301:INFO:Preloading libraries
+2023-10-10 19:33:27,301:INFO:Set up data.
+2023-10-10 19:33:27,311:INFO:Set up index.
+2023-10-10 19:34:11,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:34:11,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:34:11,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:34:11,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:34:12,194:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:34:19,816:INFO:Initializing load_model()
+2023-10-10 19:34:19,818:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:34:19,936:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:34:19,960:INFO:Initializing predict_model()
+2023-10-10 19:34:19,960:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x125ccad50>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x125ae4f40>)
+2023-10-10 19:34:19,960:INFO:Checking exceptions
+2023-10-10 19:34:19,960:INFO:Preloading libraries
+2023-10-10 19:34:19,961:INFO:Set up data.
+2023-10-10 19:34:19,970:INFO:Set up index.
+2023-10-10 19:52:40,916:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:52:40,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:52:40,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:52:40,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:52:42,098:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:53:03,158:INFO:Initializing load_model()
+2023-10-10 19:53:03,159:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:53:03,286:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:53:03,310:INFO:Initializing predict_model()
+2023-10-10 19:53:03,311:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12e7e9e90>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x12e559120>)
+2023-10-10 19:53:03,311:INFO:Checking exceptions
+2023-10-10 19:53:03,311:INFO:Preloading libraries
+2023-10-10 19:53:03,311:INFO:Set up data.
+2023-10-10 19:53:03,320:INFO:Set up index.
+2023-10-10 19:54:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:54:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:54:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:54:25,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:54:26,424:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:54:30,539:INFO:Initializing load_model()
+2023-10-10 19:54:30,539:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:54:30,653:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:54:30,679:INFO:Initializing predict_model()
+2023-10-10 19:54:30,679:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x128e8b110>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x128c51120>)
+2023-10-10 19:54:30,679:INFO:Checking exceptions
+2023-10-10 19:54:30,680:INFO:Preloading libraries
+2023-10-10 19:54:30,680:INFO:Set up data.
+2023-10-10 19:54:30,692:INFO:Set up index.
+2023-10-10 19:55:02,217:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:55:02,217:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:55:02,217:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:55:02,217:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-10 19:55:03,450:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-10-10 19:55:12,673:INFO:Initializing load_model()
+2023-10-10 19:55:12,675:INFO:load_model(model_name=predictions/tr_models/c81e728d9d4c2f636f067f89cc14862cc7b711619071c92bef604c7ad68380dd, platform=None, authentication=None, verbose=False)
+2023-10-10 19:55:12,800:WARNING:/Users/greygreywolf/Library/Caches/pypoetry/virtualenvs/lenta-XRSy7zxv-py3.11/lib/python3.11/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.2.2', 'pycaret': '3.0.0', 'IPython': '8.16.1', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.23.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.11.5', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.8.0', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.65.0', 'numpy': '1.24.4', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.3.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.2.1', 'numba': '0.57.0', 'requests': '2.29.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.2'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-10-10 19:55:12,825:INFO:Initializing predict_model()
+2023-10-10 19:55:12,825:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x126493b10>, estimator=Pipeline(steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pr_uom_id', 'daily_sells',
+                                             'day_sin', 'day_cos', 'week_cos',
+                                             'month_sin', 'dow_sin', 'dow_cos',
+                                             'lag_1_day', 'lag_2_day',
+                                             'lag_7_day', 'lag_14_day',
+                                             'ewmavg_7_day', 'mmin_7_day',
+                                             'diff_7_day', 'mmin_14_day',
+                                             'diff_14_day'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(n_jobs=-1),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator', Ridge(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=False, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x126344fe0>)
+2023-10-10 19:55:12,825:INFO:Checking exceptions
+2023-10-10 19:55:12,825:INFO:Preloading libraries
+2023-10-10 19:55:12,825:INFO:Set up data.
+2023-10-10 19:55:12,834:INFO:Set up index.
