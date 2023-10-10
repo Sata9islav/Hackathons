@@ -108,10 +108,10 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 		
  2. Из за большого объема обученных моделей, они были помещены на [Yandex диск](https://disk.yandex.ru/d/TawXg5M18-nkrg).
 
- 2.1 Скачать архив sp_sales_task.zip по ссылке выше. Модели хранятся в директории tr_models.
-     Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.
+ 	2.1 Скачать архив sp_sales_task.zip по ссылке выше. Модели хранятся в директории tr_models.
+     	Либо последовательно запустить `блокноты jupiter` из общего репозитория хакатона Lenta.
 		
- 2.2 Скопировать их в директорию `for_docker_image/src/predictions/tr_models`
+	 2.2 Скопировать их в директорию `for_docker_image/src/predictions/tr_models`
 
 3. Запустить сборку образа из директории `for_docker_image` командой `docker build .`
 
