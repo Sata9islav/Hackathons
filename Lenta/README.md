@@ -121,7 +121,7 @@ _Пример процесса сборки:_
 	
 4. Запустить контейнер командой `docker run -p локальный_порт:порт_в_контейнере имя_образа`.			
 	
-5. Пример работы (запрос отправляется в консоли)
+5. Пример работы (запрос отправляется в POSTMAN)
 
  [![asciicast](https://asciinema.org/a/UTZ8gMyOG71faVY53UhTQllan.svg)](https://asciinema.org/a/UTZ8gMyOG71faVY53UhTQllan)	
 
