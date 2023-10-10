@@ -11,7 +11,6 @@ def get_predictions(df: pd.core.frame.DataFrame) -> pd.core.frame.DataFrame:
     submission_with_predict = pd.DataFrame()
     unique_st_sku = df['st_sku'].unique()
     for i in unique_st_sku:
-        print(i)
         l = load_model('predictions/tr_models/' + str(i), verbose=False)
         features = df_result[df_result['st_sku'] == i]['features'].to_list()
 
