@@ -26,7 +26,7 @@
 <td>F1=0.92</td>
 </tr>
 <tr>
-<td><"a href = https://github.com/GreyGreyWolf/Hackathons/tree/master/yandex_ml_4.0">Yandex ml 4.0</a></td>
+<td><a href = "https://github.com/GreyGreyWolf/Hackathons/tree/master/yandex_ml_4.0">Yandex ml 4.0</a></td>
 <td> > 50%</td>
 </tr>
 </table>
