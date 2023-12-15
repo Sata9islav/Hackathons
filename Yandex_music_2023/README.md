@@ -14,7 +14,7 @@
 
 # Содержание репозитория:
 
-## 1. [Блокнот "знакомство с данными и первичная предобработка"](https://github.com/GreyGreyWolf/Hackathons/blob/master/Yandex_music_2023/yandex_music_understending_and_preprocessing_by_team_13.ipynb)
+## 1. [Блокнот "знакомство с данными и первичная предобработка"](https://github.com/Sata9islav/Hackathons/blob/master/Yandex_music_2023/yandex_music_understending_and_preprocessing_by_team_13.ipynb)
 ### Основные шаги:
  - Поиск и устранение дубликатов
  - Заполнение пропусков
@@ -49,7 +49,7 @@
 
    3. Все текстовые значения датасетов были преведены к нижнему регистру.
 
-## 2.  [Блокнот с исследовательским анализом и созданием новых признаков](https://github.com/GreyGreyWolf/Hackathons/blob/master/Yandex_music_2023/yandex_music_eda_and_fe_by_team_13.ipynb)
+## 2.  [Блокнот с исследовательским анализом и созданием новых признаков](https://github.com/Sata9islav/Hackathons/blob/master/Yandex_music_2023/yandex_music_eda_and_fe_by_team_13.ipynb)
 
 ### Основные шаги EDA:
  - Обнаружены и обработаны аномалии
@@ -96,7 +96,7 @@
     12. Проведено исследование на мультиколлинеарность, удалены слишком сильно коррелирующие
     и слабозначимые признаки.
 
-## 3. [Блокнот с моделингом: отбор классификатора](https://github.com/GreyGreyWolf/Hackathons/blob/master/Yandex_music_2023/yandex_music_modelling_clf_by_team_13.ipynb)
+## 3. [Блокнот с моделингом: отбор классификатора](https://github.com/Sata9islav/Hackathons/blob/master/Yandex_music_2023/yandex_music_modelling_clf_by_team_13.ipynb)
 
 ### Основные шаги:
 
@@ -143,7 +143,7 @@
     В результате работы была выбрана наилучшая модель Градиентный бустинг, и достигнуто для нее высокое 
     качество классификации музыкальных треков на оригинал/кавер.
 
-## 4. [Блокнот с моделлингом: поиск похожих композиций и ранжирование](https://github.com/GreyGreyWolf/Hackathons/blob/master/Yandex_music_2023/yandex_music_modelling_faiss_by_team_13.ipynb)
+## 4. [Блокнот с моделлингом: поиск похожих композиций и ранжирование](https://github.com/Sata9islav/Hackathons/blob/master/Yandex_music_2023/yandex_music_modelling_faiss_by_team_13.ipynb)
 
 ### Основные шаги:
 
@@ -171,5 +171,5 @@
 
 # Состав команды:
 
-- [Станислав](https://github.com/GreyGreyWolf)
+- [Станислав](https://github.com/Sata9islav)
 - [Илья](https://github.com/tkachuk45)
