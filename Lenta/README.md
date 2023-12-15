@@ -28,7 +28,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 # Содержание репозитория:
 
-## 1. [Блокнот с исследовательским аналиским анализом данных](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_eda_by_ds_team_17.ipynb)
+## 1. [Блокнот с исследовательским аналиским анализом данных](https://github.com/Sata9islav/Hackathons/blob/master/Lenta/lenta_x_hackathon_eda_by_ds_team_17.ipynb)
 ### Основные шаги EDA:
  - Обнаружены и обработаны аномалии
  - Сгенерированы и исследованы новые признаки
@@ -72,7 +72,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
     
     Перечисленные факторы значительно влияют на количество приобритаемой продукции.
 
-## 2. [Блокнот с финальной обработкой данных, отбором признаков и моделлингом](https://github.com/GreyGreyWolf/Hackathons/blob/master/Lenta/lenta_x_hackathon_preprocessing_and_modelling_by_ds_team_17.ipynb)
+## 2. [Блокнот с финальной обработкой данных, отбором признаков и моделлингом](https://github.com/Sata9islav/Hackathons/blob/master/Lenta/lenta_x_hackathon_preprocessing_and_modelling_by_ds_team_17.ipynb)
 
 ### Основные шаги моделлинга:
  - Созданы дополнительные "временные" признаки.
@@ -95,7 +95,7 @@ return np.sum(np.abs(y_true-y_pred))/np.sum(np.abs(y_true))
 
 Но несмотря на это, такая методика позволила нам достичь высоких результатов при прогнозировании.
 
-## 3.[Директория с файлами для Docker образа](https://github.com/GreyGreyWolf/Hackathons/tree/master/Lenta/for_docker_image)
+## 3.[Директория с файлами для Docker образа](https://github.com/Sata9islav/Hackathons/tree/master/Lenta/for_docker_image)
 
 Дирректория содержит в себе готовое backend приложение с моделями и полностью рабочую инструкцию сборки Docker образа для последующего внедрения 
 в общий сервис (В приложение включен простой логер, который выводит информацию о ходе работы в консоль)
@@ -160,5 +160,5 @@ _Пример процесса сборки:_
 
 # Состав команды:
 
-- [Станислав](https://github.com/GreyGreyWolf)
+- [Станислав](https://github.com/Sata9islav)
 - [Сергей](https://github.com/OmanSK)
